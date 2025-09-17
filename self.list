@@ -5,7 +5,7 @@ host, dia-blocklists-release.diabrowser.engineering, ChatGpt
 
 ## host-keyword
 host-keyword, diabrowser, ChatGpt
-host-keyword, arc, 🇺🇸 美国
+
 
 ## host-suffix
 host-suffix, diabrowser.com, ChatGpt
@@ -77,9 +77,6 @@ host, cdn.usefathom.com, ChatGpt
 host-suffix, figma.com, 🎨 figma
 host-suffix, cursor.com, 🤖 自动选择
 
-host-keyword, steam, 🤖 自动选择
-host-keyword, discord, 🤖 自动选择
-host-keyword, snapchat, 🤖 自动选择
 
 # ================== OpenAI/Anthropic/Claude 相关 ==================
 ## host-suffix
@@ -89,9 +86,6 @@ host-suffix, chatgpt.com, ChatGpt
 host-suffix, microsoft.com, ChatGpt
 host-suffix, openai.com, ChatGpt
 
-## host-keyword
-host-keyword, perplexity, ChatGpt
-host-keyword, grok, 🇺🇸 美国
 
 
 # ================== 内网/保留地址 ==================
